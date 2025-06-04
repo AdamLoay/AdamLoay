@@ -73,11 +73,3 @@ I’m a Computer Science student at October 6 University (O6U), learning my way 
 ![](https://github-contributor-stats.vercel.app/api?username=adamloay&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-
-## 👀 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=adamloay&icon=0&color=7)](https://visitcount.itsvg.in)
-
----
-
-<!-- Built by Adam, slowly but surely -->
